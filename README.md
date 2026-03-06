@@ -2,10 +2,6 @@
 
 A data analysis mini project focused on product launch trends in the food and beverage market. The repository includes a Kaggle-ready Jupyter notebook, the source datasets, exported summary tables, and the original assignment documents.
 
-## Repository Name
-
-Suggested GitHub repository name: `food-beverage-market-analysis-kaggle`
-
 ## Project Overview
 
 This project analyzes historical product launch data to answer business questions around:
