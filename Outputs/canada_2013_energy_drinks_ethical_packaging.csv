@@ -1,0 +1,5 @@
+market_subcategory,id,eventdate,country,positioning,region,flavor,year,month,month_name,quarter,year_month,country_key,market_subcategory_key,has_ethical_packaging
+Energy Drinks,82405,2013-11-01,Canada,"Organic, Energy/Alertness, Ethical - Human, Ethical - Packaging, Convenience - Consumption, Kosher",North America,"Berry, Not specified; Tea, Green; Tea, Mate",2013,11,November,2013Q4,2013-11,canada,energy drinks,True
+Energy Drinks,82406,2013-11-01,Canada,"Brain Health, Energy/Alertness, Ethical - Packaging, Convenience - Consumption",North America,"Citrus, Not Specified",2013,11,November,2013Q4,2013-11,canada,energy drinks,True
+Energy Drinks,82440,2013-11-01,Canada,"Brain Health, Energy/Alertness, Ethical - Packaging, Convenience - Consumption",North America,"Cherry, Not Specified",2013,11,November,2013Q4,2013-11,canada,energy drinks,True
+Energy Drinks,82441,2013-11-01,Canada,"Brain Health, Energy/Alertness, Ethical - Packaging, Convenience - Consumption",North America,"Berry, Mixed",2013,11,November,2013Q4,2013-11,canada,energy drinks,True
