@@ -1,6 +1,19 @@
 # Food & Beverage Market Analysis
 
-A data analysis mini project focused on product launch trends in the food and beverage market. The repository includes a Kaggle-ready Jupyter notebook, the source datasets, exported summary tables, and the original assignment documents.
+![Status](https://img.shields.io/badge/status-complete-2ea44f)
+![Kaggle Ready](https://img.shields.io/badge/kaggle-ready-20beff)
+![Python](https://img.shields.io/badge/python-3.x-3776ab)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+An end-to-end market analysis project focused on food and beverage product launches, flavor diversity, positioning strategy, and category trends. The repository includes a Kaggle-ready Jupyter notebook, source datasets, exported summary tables, and the original assignment documents.
+
+## Highlights
+
+- Kaggle-ready notebook that runs from top to bottom using the provided Kaggle dataset paths
+- robust CSV ingestion logic for mixed encodings and malformed rows
+- parsing of complex multi-value `flavor` and `positioning` fields
+- trend analysis, quarterly and yearly summaries, and hypothesis testing
+- export-ready cleaned datasets for pivot tables and downstream analysis
 
 ## Project Overview
 
@@ -167,6 +180,10 @@ pip install pandas numpy seaborn matplotlib scipy openpyxl xlsxwriter jupyter
 - The notebook was prepared to be executable in Kaggle.
 - Source files may contain Windows-encoded characters, so the notebook includes defensive CSV loading logic.
 - Some environments may show unresolved import warnings locally even when the notebook runs correctly in Kaggle.
+
+## License
+
+This repository is released under the MIT License. See `LICENSE` for details.
 
 ## Author
 
